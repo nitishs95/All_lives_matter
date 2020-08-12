@@ -1,4 +1,4 @@
-# ALl_lives_matter
+# All_lives_matter
 
 
 We see discrimnation all over the world. People discriminate on the basis of caste, race, religion, sexuality. Everyone has right to get respect and live with equal rights. This dataset consists of various parameters that can justify the death of people killed by police since 2015. The dataset is from Kaggle determining the number of deaths since 2015.
