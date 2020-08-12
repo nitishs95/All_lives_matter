@@ -17,4 +17,4 @@ Parameters Taken:
 
 6. Flee: running via car, feet, etc
 
-7. Threat attacking or not.
+7. Threat: attacking or not.
